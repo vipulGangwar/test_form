@@ -25,7 +25,7 @@ SECRET_KEY = '5r!6s-h)v3i^vbcd_9f25r29=!^!%ipwlg*er+s=(plhc8+pb9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['test-form-mindful.herokuapp.com']
 
 
 # Application definition
